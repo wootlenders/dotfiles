@@ -74,6 +74,7 @@ plugins=(
 	git
 	yarn
 	gcloud
+	pnpm
 )
 
 source $ZSH/oh-my-zsh.sh
