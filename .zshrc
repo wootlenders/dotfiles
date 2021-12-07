@@ -104,9 +104,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh
 
-export ANDROID_SDK_ROOT=${HOME}/Library/Android/sdk
-export PATH=${HOME}/Library/Android/sdk/platform-tools:$PATH
-export ANDROID_HOME=${HOME}/Library/Android/sdk
-
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
